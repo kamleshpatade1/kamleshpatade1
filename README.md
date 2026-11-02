@@ -79,18 +79,26 @@ me = Kamlesh()
 <div align="center">
 
 <a href="https://github.com/kamleshpatade1/DocGuard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshpatade1&repo=DocGuard&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/📘_DocGuard-Python_CLI-203A43?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/kamleshpatade1/Stock-Price-Tracker---WAP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshpatade1&repo=Stock-Price-Tracker---WAP&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/📈_Stock_Price_Tracker-Web_App-203A43?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/kamleshpatade1/TERMINAL-MUSIC-PLAYER">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshpatade1&repo=TERMINAL-MUSIC-PLAYER&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🎵_Terminal_Music_Player-Node.js-203A43?style=for-the-badge" />
 </a>
 
 </div>
+
+### 📌 What I've Built
+
+| Project | Description | Tech |
+|---|---|---|
+| [DocGuard](https://github.com/kamleshpatade1/DocGuard) | Detects documentation drift in Python projects | Python |
+| [Stock Tracker](https://github.com/kamleshpatade1/Stock-Price-Tracker---WAP) | Tracks stock prices and favorites | JavaScript |
+| [Music Player](https://github.com/kamleshpatade1/TERMINAL-MUSIC-PLAYER) | Terminal-based music player | Node.js |
 
 ### A little about my projects
 
